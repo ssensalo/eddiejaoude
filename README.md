@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Learning about Kubernetes at KubeHuddle](https://www.youtube.com/watch?v=R75j79yNSKg)
 - [Let&#39;s improve my GitHub Profile](https://www.youtube.com/watch?v=4POaptBcyG0)
 - [Git Cherry Pick instead of Git Merge](https://www.youtube.com/watch?v=OJmcEoMLOTM)
 - [Money or skills? With  @Kunal Kushwaha](https://www.youtube.com/watch?v=fCYcVrKlTh8)
 - [Open Source Reviews](https://www.youtube.com/watch?v=PN9gs8TmnTw)
-- [Let&#39;s all collaborate on Open Source!](https://www.youtube.com/watch?v=NsBJD21fdT4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

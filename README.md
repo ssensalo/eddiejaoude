@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Docker container for your fullstack NextJS project](https://www.youtube.com/watch?v=7vBUbpbl-JA)
 - [Learning about Kubernetes at KubeHuddle in person event UK](https://www.youtube.com/watch?v=R75j79yNSKg)
 - [Let&#39;s improve my GitHub Profile](https://www.youtube.com/watch?v=4POaptBcyG0)
 - [Git Cherry Pick instead of Git Merge](https://www.youtube.com/watch?v=OJmcEoMLOTM)
 - [Money or skills? With  @Kunal Kushwaha](https://www.youtube.com/watch?v=fCYcVrKlTh8)
-- [Open Source Reviews](https://www.youtube.com/watch?v=PN9gs8TmnTw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

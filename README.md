@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Hacktoberfest halloween SCARY Spammy Pull Requests](https://www.youtube.com/watch?v=vMljzaC0kWQ)
 - [Organising Kubernetes in-person event KubeHuddle: Interview with David Flanagan](https://www.youtube.com/watch?v=80GBNMwlt-Y)
 - [Docker container for your fullstack NextJS project](https://www.youtube.com/watch?v=7vBUbpbl-JA)
 - [Learning about Kubernetes at KubeHuddle in person event UK](https://www.youtube.com/watch?v=R75j79yNSKg)
 - [Let&#39;s improve my GitHub Profile](https://www.youtube.com/watch?v=4POaptBcyG0)
-- [Git Cherry Pick instead of Git Merge](https://www.youtube.com/watch?v=OJmcEoMLOTM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

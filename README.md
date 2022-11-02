@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to get started with GitHub Actions](https://www.youtube.com/watch?v=-ZiuJdT1i0k)
 - [Hacktoberfest halloween SCARY Spammy Pull Requests](https://www.youtube.com/watch?v=vMljzaC0kWQ)
 - [Organising Kubernetes in-person event KubeHuddle: Interview with David Flanagan](https://www.youtube.com/watch?v=80GBNMwlt-Y)
 - [Docker container for your fullstack NextJS project](https://www.youtube.com/watch?v=7vBUbpbl-JA)
 - [Learning about Kubernetes at KubeHuddle in person event UK](https://www.youtube.com/watch?v=R75j79yNSKg)
-- [Let&#39;s improve my GitHub Profile](https://www.youtube.com/watch?v=4POaptBcyG0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

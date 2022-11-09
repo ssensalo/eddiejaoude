@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [DevRel? Open Source? Content Creation? Q&amp;A](https://www.youtube.com/watch?v=omUkhMAD8Pw)
 - [Kubernetes move from Sidecar to eBPF Service Mesh: Interview with Liz Rice](https://www.youtube.com/watch?v=HNrYsEYuNdo)
 - [Open Source coding on LinkFree v2 using NextJS and Playwright](https://www.youtube.com/watch?v=btvegqPdVyw)
 - [How to get started with GitHub Actions](https://www.youtube.com/watch?v=-ZiuJdT1i0k)
 - [Hacktoberfest halloween SCARY Spammy Pull Requests](https://www.youtube.com/watch?v=vMljzaC0kWQ)
-- [Organising Kubernetes in-person event KubeHuddle: Interview with David Flanagan](https://www.youtube.com/watch?v=80GBNMwlt-Y)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

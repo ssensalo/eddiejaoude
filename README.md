@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to make your way in tech: Interview with Kunal Kushwaha](https://www.youtube.com/watch?v=V7hsw_EEclo)
 - [REACTING to your Open Source Projects &amp; Profiles](https://www.youtube.com/watch?v=KegUYtQFvKg)
 - [DevRel? Open Source? Content Creation? Q&amp;A](https://www.youtube.com/watch?v=omUkhMAD8Pw)
 - [Kubernetes move from Sidecar to eBPF Service Mesh: Interview with Liz Rice](https://www.youtube.com/watch?v=HNrYsEYuNdo)
 - [Open Source coding on LinkFree v2 using NextJS and Playwright](https://www.youtube.com/watch?v=btvegqPdVyw)
-- [How to get started with GitHub Actions](https://www.youtube.com/watch?v=-ZiuJdT1i0k)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

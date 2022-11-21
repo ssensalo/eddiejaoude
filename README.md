@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Collaborating &amp; Listening to other in Tech: Interview with Lian Li](https://www.youtube.com/watch?v=R3pWXVK1bS0)
 - [5 GitHub Profiles that STAND OUT](https://www.youtube.com/watch?v=7Put3ddOpTw)
 - [Is it STILL possible to grow on Twitter? &lpar;and is it WORTH it?&rpar;](https://www.youtube.com/watch?v=c_gssXt0cOU)
 - [How to make your way in tech: Interview with Kunal Kushwaha](https://www.youtube.com/watch?v=V7hsw_EEclo)
 - [REACTING to your Open Source Projects &amp; Profiles](https://www.youtube.com/watch?v=KegUYtQFvKg)
-- [DevRel? Open Source? Content Creation? Q&amp;A](https://www.youtube.com/watch?v=omUkhMAD8Pw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

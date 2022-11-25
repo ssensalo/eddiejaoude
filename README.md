@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Adding dynamic testimonials to LinkFree Profiles](https://www.youtube.com/watch?v=FRuEqy-weno)
 - [What happened to Open Source in 2022?](https://www.youtube.com/watch?v=7Sy4DQVJ7zw)
 - [Collaborating &amp; Listening to other in Tech: Interview with Lian Li](https://www.youtube.com/watch?v=R3pWXVK1bS0)
 - [5 GitHub Profiles that STAND OUT](https://www.youtube.com/watch?v=7Put3ddOpTw)
 - [Is it STILL possible to grow on Twitter? &lpar;and is it WORTH it?&rpar;](https://www.youtube.com/watch?v=c_gssXt0cOU)
+- [How to make your way in tech: Interview with Kunal Kushwaha](https://www.youtube.com/watch?v=V7hsw_EEclo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

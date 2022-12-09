@@ -27,10 +27,10 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Kubernetes as a Web Dev](https://www.youtube.com/watch?v=yOPyK5WMxCs)
-- [Open Source Reactions &amp; Reviews](https://www.youtube.com/watch?v=iqIFD02OkVE)
 - [Open Source paving the way to sustainability in tech: Interview with Cheryl Hung](https://www.youtube.com/watch?v=W0pf9UAXyS0)
 - [REACTING to your GitHub SPONSORS page](https://www.youtube.com/watch?v=ES05mCEomm0)
 - [QR Code generator with React](https://www.youtube.com/watch?v=mA3eC9YnhsU)
+- [TALK: How to Accelerate your career with Open Source](https://www.youtube.com/watch?v=gzvqFHU9rl8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Machine Learning using Tensorflow.JS with Patty O&#39;Callaghan](https://www.youtube.com/watch?v=y9lWlm0Z2Nw)
 - [Succeed in tech by networking: Interview with Marino Wijay](https://www.youtube.com/watch?v=k1ogozxOh40)
 - [Open Source Reactions &amp; Reviews](https://www.youtube.com/watch?v=iqIFD02OkVE)
 - [Content Creation STRATEGY for Developers](https://www.youtube.com/watch?v=Tdn5YP6UK34)
 - [Kubernetes as a Web Dev](https://www.youtube.com/watch?v=yOPyK5WMxCs)
-- [Open Source paving the way to sustainability in tech: Interview with Cheryl Hung](https://www.youtube.com/watch?v=W0pf9UAXyS0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

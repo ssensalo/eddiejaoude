@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Render Markdown React Component](https://www.youtube.com/watch?v=DXFc8MNUZQM)
 - [Attending in-person events when starting out in Kubernetes: Interview with Anton Sankov](https://www.youtube.com/watch?v=eDEb8QlovpA)
 - [Machine Learning using Tensorflow.JS with Patty O&#39;Callaghan](https://www.youtube.com/watch?v=y9lWlm0Z2Nw)
 - [Content Creation STRATEGY for Developers](https://www.youtube.com/watch?v=Tdn5YP6UK34)
 - [Succeed in tech by networking: Interview with Marino Wijay](https://www.youtube.com/watch?v=k1ogozxOh40)
-- [Open Source Reactions &amp; Reviews](https://www.youtube.com/watch?v=iqIFD02OkVE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

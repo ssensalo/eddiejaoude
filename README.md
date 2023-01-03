@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Geeking out on Open Source with Bashbunni](https://www.youtube.com/watch?v=xgEa7hFjWm4)
 - [React Form Generates custom QR code](https://www.youtube.com/watch?v=krmRG6o83Io)
 - [Javascript + Markdown = MDX &lpar;using NextJS&rpar;](https://www.youtube.com/watch?v=AEmy6FXdzyk)
 - [Render Markdown React Component](https://www.youtube.com/watch?v=DXFc8MNUZQM)
 - [Attending in-person events when starting out in Kubernetes: Interview with Anton Sankov](https://www.youtube.com/watch?v=eDEb8QlovpA)
-- [Machine Learning using Tensorflow.JS with Patty O&#39;Callaghan](https://www.youtube.com/watch?v=y9lWlm0Z2Nw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

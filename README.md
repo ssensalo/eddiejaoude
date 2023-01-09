@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GitHub Swag GIVE AWAY for LinkFree open source project](https://www.youtube.com/watch?v=kvtz6wwE59A)
 - [Geeking out on Open Source with Bashbunni](https://www.youtube.com/watch?v=xgEa7hFjWm4)
 - [Should you merge your own Pull Requests?](https://www.youtube.com/watch?v=uEaa4K0rx-0)
 - [React Form Generates custom QR code](https://www.youtube.com/watch?v=krmRG6o83Io)
 - [Javascript + Markdown = MDX &lpar;using NextJS&rpar;](https://www.youtube.com/watch?v=AEmy6FXdzyk)
-- [Render Markdown React Component](https://www.youtube.com/watch?v=DXFc8MNUZQM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Machine Learning using Tensorflow.JS with Patty O&#39;Callaghan](https://www.youtube.com/watch?v=tr7_66ZNyM0)
 - [GitHub Swag GIVE AWAY for LinkFree open source project](https://www.youtube.com/watch?v=kvtz6wwE59A)
 - [Geeking out on Open Source with Bashbunni](https://www.youtube.com/watch?v=xgEa7hFjWm4)
 - [Should you merge your own Pull Requests?](https://www.youtube.com/watch?v=uEaa4K0rx-0)
 - [React Form Generates custom QR code](https://www.youtube.com/watch?v=krmRG6o83Io)
-- [Javascript + Markdown = MDX &lpar;using NextJS&rpar;](https://www.youtube.com/watch?v=AEmy6FXdzyk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

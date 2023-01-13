@@ -26,9 +26,9 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Open Source Reviews](https://www.youtube.com/watch?v=byNk8O5PRWQ)
 - [Running GitHub Open Source Organisations](https://www.youtube.com/watch?v=6sZyOAoJrHU)
 - [Git revert single file using git checkout on the CLI](https://www.youtube.com/watch?v=YUHS5Ana7Jw)
-- [Machine Learning using Tensorflow.JS with Patty O&#39;Callaghan](https://www.youtube.com/watch?v=tr7_66ZNyM0)
 - [GitHub Swag GIVE AWAY for LinkFree open source project](https://www.youtube.com/watch?v=kvtz6wwE59A)
 - [Geeking out on Open Source with Bashbunni](https://www.youtube.com/watch?v=xgEa7hFjWm4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->

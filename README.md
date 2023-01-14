@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Open Source Reviews](https://www.youtube.com/watch?v=byNk8O5PRWQ)
 - [Running GitHub Open Source Organisations](https://www.youtube.com/watch?v=6sZyOAoJrHU)
 - [Git revert single file using git checkout on the CLI](https://www.youtube.com/watch?v=YUHS5Ana7Jw)
 - [GitHub Swag GIVE AWAY for LinkFree open source project](https://www.youtube.com/watch?v=kvtz6wwE59A)
 - [Geeking out on Open Source with Bashbunni](https://www.youtube.com/watch?v=xgEa7hFjWm4)
-- [Should you merge your own Pull Requests?](https://www.youtube.com/watch?v=uEaa4K0rx-0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

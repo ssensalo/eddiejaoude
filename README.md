@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Learning Golang as a Javascript Developer with Lane from Boot.dev](https://www.youtube.com/watch?v=udzoQQQNSfQ)
 - [Visualise &amp; Manage your Kubernetes Helm Charts with Helm Dashboard](https://www.youtube.com/watch?v=QphbBKlGMAI)
 - [Running GitHub Open Source Organisations](https://www.youtube.com/watch?v=6sZyOAoJrHU)
 - [Open Source Reviews](https://www.youtube.com/watch?v=byNk8O5PRWQ)
 - [Git revert single file using git checkout on the CLI](https://www.youtube.com/watch?v=YUHS5Ana7Jw)
-- [GitHub Swag GIVE AWAY for LinkFree open source project](https://www.youtube.com/watch?v=kvtz6wwE59A)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

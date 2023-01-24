@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [LinkFree Profile Reviews and Giveaway!](https://www.youtube.com/watch?v=vtKtxDdS96U)
 - [LinkFree Quickstart: How to create YOUR Profile! &lpar;Open Source&rpar;](https://www.youtube.com/watch?v=05HEeCQSKRE)
 - [Learning Golang as a Javascript Developer with Lane from Boot.dev](https://www.youtube.com/watch?v=udzoQQQNSfQ)
 - [Visualise &amp; Manage your Kubernetes Helm Charts with Helm Dashboard](https://www.youtube.com/watch?v=QphbBKlGMAI)
 - [Running GitHub Open Source Organisations](https://www.youtube.com/watch?v=6sZyOAoJrHU)
-- [Open Source Reviews](https://www.youtube.com/watch?v=byNk8O5PRWQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

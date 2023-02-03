@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [npm install vs npm ci](https://www.youtube.com/watch?v=jHkIXYVpMTo)
 - [Reviewing YOUR GitHub Organisations](https://www.youtube.com/watch?v=mOJ8lagv0jM)
 - [LinkFree Profile Reviews and Giveaway!](https://www.youtube.com/watch?v=vtKtxDdS96U)
 - [How much have I learnt in 6 years](https://www.youtube.com/watch?v=bRxhzt3UQlg)
 - [LinkFree Quickstart: How to create YOUR Profile! &lpar;Open Source&rpar;](https://www.youtube.com/watch?v=05HEeCQSKRE)
-- [Learning Golang as a Javascript Developer with Lane from Boot.dev](https://www.youtube.com/watch?v=udzoQQQNSfQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

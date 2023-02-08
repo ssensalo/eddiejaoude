@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Content Creation Challenges](https://www.youtube.com/watch?v=2Mhqx2VamWo)
 - [npm install vs npm ci](https://www.youtube.com/watch?v=jHkIXYVpMTo)
 - [Reviewing YOUR GitHub Organisations](https://www.youtube.com/watch?v=mOJ8lagv0jM)
 - [LinkFree Profile Reviews and Giveaway!](https://www.youtube.com/watch?v=vtKtxDdS96U)
 - [How much have I learnt in 6 years](https://www.youtube.com/watch?v=bRxhzt3UQlg)
-- [LinkFree Quickstart: How to create YOUR Profile! &lpar;Open Source&rpar;](https://www.youtube.com/watch?v=05HEeCQSKRE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

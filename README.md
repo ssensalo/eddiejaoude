@@ -27,10 +27,10 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Digital Nomad life #shorts](https://www.youtube.com/watch?v=6CBzVNmgBoE)
-- [Open Source Reviews](https://www.youtube.com/watch?v=9pXcE3-WnkA)
 - [Content Creation Challenges](https://www.youtube.com/watch?v=2Mhqx2VamWo)
 - [npm install vs npm ci](https://www.youtube.com/watch?v=jHkIXYVpMTo)
 - [Reviewing YOUR GitHub Organisations](https://www.youtube.com/watch?v=mOJ8lagv0jM)
+- [LinkFree Profile Reviews and Giveaway!](https://www.youtube.com/watch?v=vtKtxDdS96U)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

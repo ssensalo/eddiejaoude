@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Building NEW Changelog feature for LinkFree Open Source Project](https://www.youtube.com/watch?v=Fj2VV_e01UQ)
 - [Work from anywhere in the world #shorts](https://www.youtube.com/watch?v=ZYN1TW3ciAs)
 - [Open Source Reviews](https://www.youtube.com/watch?v=9pXcE3-WnkA)
 - [Digital Nomad life #shorts](https://www.youtube.com/watch?v=6CBzVNmgBoE)
 - [Content Creation Challenges](https://www.youtube.com/watch?v=2Mhqx2VamWo)
+- [npm install vs npm ci](https://www.youtube.com/watch?v=jHkIXYVpMTo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

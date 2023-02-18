@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Building NEW Changelog feature for LinkFree Open Source Project](https://www.youtube.com/watch?v=Fj2VV_e01UQ)
 - [Twitter AMA for 2023: YOUR questions answered](https://www.youtube.com/watch?v=q9dcPvgxV30)
 - [Adding value to any coding project](https://www.youtube.com/watch?v=jRXeGEwrD_U)
 - [Work from anywhere in the world #shorts](https://www.youtube.com/watch?v=ZYN1TW3ciAs)
 - [Open Source Reviews](https://www.youtube.com/watch?v=9pXcE3-WnkA)
-- [Digital Nomad life #shorts](https://www.youtube.com/watch?v=6CBzVNmgBoE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

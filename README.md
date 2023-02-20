@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to update your GitHub fork to avoid Git conflicts &lpar;LINKFREE Profile example&rpar;](https://www.youtube.com/watch?v=eze7Y4Rxwtc)
 - [npm install vs npm ci #shorts](https://www.youtube.com/watch?v=IpHx3exSQUI)
 - [Building NEW Changelog feature for LinkFree Open Source Project](https://www.youtube.com/watch?v=Fj2VV_e01UQ)
 - [Twitter AMA for 2023: YOUR questions answered](https://www.youtube.com/watch?v=q9dcPvgxV30)
 - [Adding value to any coding project](https://www.youtube.com/watch?v=jRXeGEwrD_U)
-- [Work from anywhere in the world #shorts](https://www.youtube.com/watch?v=ZYN1TW3ciAs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

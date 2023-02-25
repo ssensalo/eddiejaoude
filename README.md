@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to refactor code &lpar;LinkFree example&rpar;](https://www.youtube.com/watch?v=e0b49aikQE8)
 - [Portable studio #DigitalNomad #DevRel #ContentCreation #Travel](https://www.youtube.com/watch?v=9CwD8ADCdvQ)
 - [How to update your GitHub fork to avoid Git conflicts &lpar;LINKFREE Profile example&rpar;](https://www.youtube.com/watch?v=eze7Y4Rxwtc)
 - [npm install vs npm ci #shorts](https://www.youtube.com/watch?v=IpHx3exSQUI)
 - [Building NEW Changelog feature for LinkFree Open Source Project](https://www.youtube.com/watch?v=Fj2VV_e01UQ)
-- [Twitter AMA for 2023: YOUR questions answered](https://www.youtube.com/watch?v=q9dcPvgxV30)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

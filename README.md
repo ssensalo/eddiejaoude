@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Get your Open Source Project and Profile reviewed by me!](https://www.youtube.com/watch?v=JQ1wZRjint8)
 - [GIT Learn these essential commands](https://www.youtube.com/watch?v=c1F4Zc20pyQ)
 - [Content Creator Bloopers Outtakes #shorts](https://www.youtube.com/watch?v=iIWlmnFxLfM)
 - [How to refactor code &lpar;LinkFree example&rpar;](https://www.youtube.com/watch?v=e0b49aikQE8)
 - [Portable studio #DigitalNomad #DevRel #ContentCreation #Travel](https://www.youtube.com/watch?v=9CwD8ADCdvQ)
-- [How to update your GitHub fork to avoid Git conflicts &lpar;LINKFREE Profile example&rpar;](https://www.youtube.com/watch?v=eze7Y4Rxwtc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

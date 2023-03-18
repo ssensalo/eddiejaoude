@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Collaboration Fatigue...is it REAL?](https://www.youtube.com/watch?v=HV3PQsNPhxU)
 - [How to get more GitHub Repo STARS &lpar;Open Source&rpar;](https://www.youtube.com/watch?v=1wKtKFY_ueM)
 - [Your Questions My Answers: Part 2](https://www.youtube.com/watch?v=VyY-yKJWNUI)
 - [Tips to getting a REMOTE job](https://www.youtube.com/watch?v=T0_7JJ6mVWo)
 - [Digital Nomad life! Join me](https://www.youtube.com/watch?v=qV_NRxunnek)
-- [Get your Open Source Project and Profile reviewed by me!](https://www.youtube.com/watch?v=JQ1wZRjint8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

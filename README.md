@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [The key to getting into DevRel with Marino Vijay, EddieHub Ambassador](https://www.youtube.com/watch?v=Tf3Ui6Lezpo)
 - [Reviewing YOUR Open Source](https://www.youtube.com/watch?v=flgQjWDgs9E)
 - [Get feedback on your Pull Request NOW!](https://www.youtube.com/watch?v=PdipPuk6LZI)
 - [Collaborate 1st Code 2nd!](https://www.youtube.com/watch?v=TqmUB4pdGwM)
 - [Collaboration Fatigue...is it REAL?](https://www.youtube.com/watch?v=HV3PQsNPhxU)
-- [How to get more GitHub Repo STARS &lpar;Open Source&rpar;](https://www.youtube.com/watch?v=1wKtKFY_ueM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

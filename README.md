@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Reviewing YOUR LinkFree Profile!](https://www.youtube.com/watch?v=q539shYcaiQ)
 - [Pull Request Inline Comments: Are you doing them?](https://www.youtube.com/watch?v=QaB50I9vnVk)
 - [Make your GitHub Sponsors page standout](https://www.youtube.com/watch?v=ZzHCj5qYtjc)
 - [Shorten your JS imports with aliases](https://www.youtube.com/watch?v=H1KTbhYvvlo)
 - [Code with me on LinkFree using NextJS and MDX](https://www.youtube.com/watch?v=87nlVHsPM1Q)
-- [The key to getting into DevRel with Marino Vijay, EddieHub Ambassador](https://www.youtube.com/watch?v=Tf3Ui6Lezpo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

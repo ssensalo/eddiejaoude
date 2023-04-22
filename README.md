@@ -27,10 +27,10 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Customising your NextJS application with light and dark mode](https://www.youtube.com/watch?v=FCCQdM3ZSw4)
-- [Collaborating on the Open Source Project LinkFree with Kyle TechSquidTV](https://www.youtube.com/watch?v=djEleZKPt10)
 - [Reviewing YOUR LinkFree Profile!](https://www.youtube.com/watch?v=q539shYcaiQ)
 - [Pull Request Inline Comments: Are you doing them?](https://www.youtube.com/watch?v=QaB50I9vnVk)
 - [Make your GitHub Sponsors page standout](https://www.youtube.com/watch?v=ZzHCj5qYtjc)
+- [Shorten your JS imports with aliases](https://www.youtube.com/watch?v=H1KTbhYvvlo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

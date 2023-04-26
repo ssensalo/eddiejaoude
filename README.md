@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Making Money Online with Open Source](https://www.youtube.com/watch?v=jAUjd7Xfb6E)
 - [Collaborating on the Open Source Project LinkFree with Kyle TechSquidTV](https://www.youtube.com/watch?v=djEleZKPt10)
 - [Customising your NextJS application with light and dark mode](https://www.youtube.com/watch?v=FCCQdM3ZSw4)
 - [Reviewing YOUR LinkFree Profile!](https://www.youtube.com/watch?v=q539shYcaiQ)
 - [Pull Request Inline Comments: Are you doing them?](https://www.youtube.com/watch?v=QaB50I9vnVk)
-- [Make your GitHub Sponsors page standout](https://www.youtube.com/watch?v=ZzHCj5qYtjc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

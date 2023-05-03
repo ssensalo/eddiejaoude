@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to reduce noise and increase collaboration in your Open Source project](https://www.youtube.com/watch?v=WSPDg57S05E)
 - [Create a good Issue](https://www.youtube.com/watch?v=xfuehC7O63M)
 - [Making Money Online with Open Source](https://www.youtube.com/watch?v=jAUjd7Xfb6E)
 - [Collaborating on the Open Source Project LinkFree with Kyle TechSquidTV](https://www.youtube.com/watch?v=djEleZKPt10)
 - [Customising your NextJS application with light and dark mode](https://www.youtube.com/watch?v=FCCQdM3ZSw4)
-- [Reviewing YOUR LinkFree Profile!](https://www.youtube.com/watch?v=q539shYcaiQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

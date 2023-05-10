@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [CrowdSec the Open Source way to secure your servers and apps](https://www.youtube.com/watch?v=0nISFyMQGwY)
 - [Tech interviews are BROKEN #shorts](https://www.youtube.com/watch?v=ODVKIUUwcmc)
 - [Twitter growth tips: reviewing YOUR profile](https://www.youtube.com/watch?v=TR1L3cFit3E)
 - [How to reduce noise and increase collaboration in your Open Source project](https://www.youtube.com/watch?v=WSPDg57S05E)
 - [Create a good Issue](https://www.youtube.com/watch?v=xfuehC7O63M)
-- [Making Money Online with Open Source](https://www.youtube.com/watch?v=jAUjd7Xfb6E)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

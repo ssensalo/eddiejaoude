@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Filter your GitHub Issues by EXCLUDING certain labels](https://www.youtube.com/watch?v=H3aUQWxSfVI)
 - [Coding 8 hours a day? #shorts](https://www.youtube.com/watch?v=KjW7T2A8-QQ)
 - [CrowdSec the Open Source way to secure your servers and apps](https://www.youtube.com/watch?v=0nISFyMQGwY)
 - [Tech interviews are BROKEN #shorts](https://www.youtube.com/watch?v=ODVKIUUwcmc)
 - [Twitter growth tips: reviewing YOUR profile](https://www.youtube.com/watch?v=TR1L3cFit3E)
-- [How to reduce noise and increase collaboration in your Open Source project](https://www.youtube.com/watch?v=WSPDg57S05E)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

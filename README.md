@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Get involved in Open Source TODAY!](https://www.youtube.com/watch?v=x2N9vFTpXyc)
 - [5 Tips not to ruin your career](https://www.youtube.com/watch?v=klkDWvAUhso)
 - [EddieCon 0.2: The Unconference! &lpar;submit your talk now!&rpar;](https://www.youtube.com/watch?v=7oeW7UPR5aw)
 - [Always ASK questions #shorts](https://www.youtube.com/watch?v=tmi4GfWVF60)
 - [Get more freelance clients #shorts](https://www.youtube.com/watch?v=nFXh4F96UTs)
-- [Filter your GitHub Issues by EXCLUDING certain labels](https://www.youtube.com/watch?v=H3aUQWxSfVI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

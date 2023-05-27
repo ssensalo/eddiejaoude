@@ -30,7 +30,7 @@
 - [STAND OUT  in interviews #shorts](https://www.youtube.com/watch?v=To--rXNV3lo)
 - [Get involved in Open Source TODAY!](https://www.youtube.com/watch?v=x2N9vFTpXyc)
 - [5 Tips not to ruin your career](https://www.youtube.com/watch?v=klkDWvAUhso)
-- [EddieCon 0.2: The Unconference! &lpar;submit your talk now!&rpar;](https://www.youtube.com/watch?v=7oeW7UPR5aw)
+- [Always ASK questions #shorts](https://www.youtube.com/watch?v=tmi4GfWVF60)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

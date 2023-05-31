@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [LinkFree: Contributing Guide](https://www.youtube.com/watch?v=dfeSpGd8leU)
 - [Reviewing YOUR Open Source Project and Profile!](https://www.youtube.com/watch?v=kYd_ch2oX38)
 - [EddieCon 0.2: The Unconference! &lpar;submit your talk now!&rpar;](https://www.youtube.com/watch?v=7oeW7UPR5aw)
 - [Cost of hosting an Open Source SAAS product? Moving to Vercel](https://www.youtube.com/watch?v=c7EqB_S_a7I)
 - [STAND OUT  in interviews #shorts](https://www.youtube.com/watch?v=To--rXNV3lo)
-- [Get involved in Open Source TODAY!](https://www.youtube.com/watch?v=x2N9vFTpXyc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

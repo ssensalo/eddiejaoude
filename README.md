@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Working on a SaaS Product &lpar;LinkFree&rpar;](https://www.youtube.com/watch?v=lBqZj7hJHJ4)
 - [How I choose Maintainers](https://www.youtube.com/watch?v=WPaN9vIyqt4)
 - [Find your perfect Open Source GitHub Issue](https://www.youtube.com/watch?v=VG90WH7Y624)
 - [Reviewing YOUR Open Source Project and Profile!](https://www.youtube.com/watch?v=kYd_ch2oX38)
 - [Pro developers!](https://www.youtube.com/watch?v=9XFiTZRz0qU)
-- [LinkFree: Contributing Guide](https://www.youtube.com/watch?v=dfeSpGd8leU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

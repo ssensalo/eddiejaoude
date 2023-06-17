@@ -28,9 +28,9 @@
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [No resume required!](https://www.youtube.com/watch?v=h16kJiVcqXg)
 - [Simple page caching with NextJS](https://www.youtube.com/watch?v=xAFHzinL_VQ)
-- [Working on a SaaS Product &lpar;LinkFree&rpar;](https://www.youtube.com/watch?v=lBqZj7hJHJ4)
 - [How I choose Maintainers](https://www.youtube.com/watch?v=WPaN9vIyqt4)
 - [Find your perfect Open Source GitHub Issue](https://www.youtube.com/watch?v=VG90WH7Y624)
+- [Reviewing YOUR Open Source Project and Profile!](https://www.youtube.com/watch?v=kYd_ch2oX38)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

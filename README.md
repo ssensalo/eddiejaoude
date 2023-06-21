@@ -26,7 +26,7 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [https://github.com/EddieHubCommunity/LinkFree](https://www.youtube.com/watch?v=gIHBVpJhmEk)
+- [Deploy to Vercel with a GitHub Action](https://www.youtube.com/watch?v=gIHBVpJhmEk)
 - [No experience to get your first job?](https://www.youtube.com/watch?v=AacR0hS1VwE)
 - [Working on a SaaS Product &lpar;LinkFree&rpar;](https://www.youtube.com/watch?v=lBqZj7hJHJ4)
 - [No resume required!](https://www.youtube.com/watch?v=h16kJiVcqXg)

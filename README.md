@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Vercel deployment with GitHub Actions](https://www.youtube.com/watch?v=gIHBVpJhmEk)
 - [No experience to get your first job?](https://www.youtube.com/watch?v=AacR0hS1VwE)
 - [Working on a SaaS Product &lpar;LinkFree&rpar;](https://www.youtube.com/watch?v=lBqZj7hJHJ4)
 - [No resume required!](https://www.youtube.com/watch?v=h16kJiVcqXg)
 - [Simple page caching with NextJS](https://www.youtube.com/watch?v=xAFHzinL_VQ)
-- [How I choose Maintainers](https://www.youtube.com/watch?v=WPaN9vIyqt4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

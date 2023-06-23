@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Work with me on an Open Source SaaS Product &lpar;LinkFree&rpar;](https://www.youtube.com/watch?v=3rH1HIhk2lo)
 - [Tech career tips](https://www.youtube.com/watch?v=D79j_Uu9rpY)
 - [Deploy to Vercel with a GitHub Action](https://www.youtube.com/watch?v=gIHBVpJhmEk)
 - [No experience to get your first job?](https://www.youtube.com/watch?v=AacR0hS1VwE)
 - [Working on a SaaS Product &lpar;LinkFree&rpar;](https://www.youtube.com/watch?v=lBqZj7hJHJ4)
-- [No resume required!](https://www.youtube.com/watch?v=h16kJiVcqXg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

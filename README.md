@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Find the RIGHT GitHub Issue for you...and get it assigned!](https://www.youtube.com/watch?v=wl9WW3vWXKQ)
 - [Secure your server with CrowdSec - the Open Source crowdsourcing tool](https://www.youtube.com/watch?v=426FgRC2Abo)
 - [Work with me on an Open Source SaaS Product &lpar;LinkFree&rpar;](https://www.youtube.com/watch?v=3rH1HIhk2lo)
 - [Tech career tips](https://www.youtube.com/watch?v=D79j_Uu9rpY)
 - [Deploy to Vercel with a GitHub Action](https://www.youtube.com/watch?v=gIHBVpJhmEk)
-- [No experience to get your first job?](https://www.youtube.com/watch?v=AacR0hS1VwE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

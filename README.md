@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Open Source Pingdom with Civo and Discord alerts](https://www.youtube.com/watch?v=cWHfeXc-uN8)
 - [Reacting to YOUR Open Source tips](https://www.youtube.com/watch?v=ZP4fs_xQdO4)
 - [More Github Stars for your Open Source Repo](https://www.youtube.com/watch?v=L5W6SIRGc1g)
 - [Find the RIGHT GitHub Issue for you...and get it assigned!](https://www.youtube.com/watch?v=wl9WW3vWXKQ)
 - [Secure your server with CrowdSec - the Open Source crowdsourcing tool](https://www.youtube.com/watch?v=426FgRC2Abo)
-- [Work with me on an Open Source SaaS Product &lpar;LinkFree&rpar;](https://www.youtube.com/watch?v=3rH1HIhk2lo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

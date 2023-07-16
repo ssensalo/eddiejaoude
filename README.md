@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Google GDG London #github](https://www.youtube.com/watch?v=ZcEyzZt-mkc)
 - [Resume not needed](https://www.youtube.com/watch?v=_cqQGaFnevA)
 - [Open Source Pingdom with Civo and Discord alerts](https://www.youtube.com/watch?v=cWHfeXc-uN8)
 - [Reacting to YOUR Open Source tips](https://www.youtube.com/watch?v=ZP4fs_xQdO4)
 - [More Github Stars for your Open Source Repo](https://www.youtube.com/watch?v=L5W6SIRGc1g)
-- [Find the RIGHT GitHub Issue for you...and get it assigned!](https://www.youtube.com/watch?v=wl9WW3vWXKQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

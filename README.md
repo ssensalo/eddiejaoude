@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Busting Open Source Myths - why you should contribute](https://www.youtube.com/watch?v=nzcexP8e5Ro)
 - [Are YOUR git commits from you?](https://www.youtube.com/watch?v=X1duT-4vKcI)
 - [Google GDG London #github](https://www.youtube.com/watch?v=ZcEyzZt-mkc)
 - [Resume not needed](https://www.youtube.com/watch?v=_cqQGaFnevA)
 - [Open Source Pingdom with Civo and Discord alerts](https://www.youtube.com/watch?v=cWHfeXc-uN8)
-- [Reacting to YOUR Open Source tips](https://www.youtube.com/watch?v=ZP4fs_xQdO4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

@@ -26,7 +26,7 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Do you need an Apple Mac to code?](https://www.youtube.com/watch?v=9UsXy_PcrtE)
+- [Do you need an Apple Mac to code? #MacbookPro](https://www.youtube.com/watch?v=9UsXy_PcrtE)
 - [Busting Open Source Myths - why you should contribute](https://www.youtube.com/watch?v=nzcexP8e5Ro)
 - [Are YOUR git commits from you?](https://www.youtube.com/watch?v=X1duT-4vKcI)
 - [Google GDG London #github](https://www.youtube.com/watch?v=ZcEyzZt-mkc)

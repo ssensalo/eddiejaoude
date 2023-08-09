@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Are your questions not being answered?](https://www.youtube.com/watch?v=c3-DBg5M0Zg)
 - [Customising your GitHub Feed](https://www.youtube.com/watch?v=njYz-QWmTBY)
 - [Don&#39;t ask to ask!](https://www.youtube.com/watch?v=RyFk8pW6Sno)
 - [Why TECH is great for remote work?](https://www.youtube.com/watch?v=6AA01oK5_co)
 - [Do you need an Apple Mac to code? #MacbookPro](https://www.youtube.com/watch?v=9UsXy_PcrtE)
-- [Busting Open Source Myths - why you should contribute](https://www.youtube.com/watch?v=nzcexP8e5Ro)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

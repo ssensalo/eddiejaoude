@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Reviewing YOUR Open Source Repo and Profile!](https://www.youtube.com/watch?v=d3-Df3sLW5o)
 - [Creating a Discovery Page for LinkFree](https://www.youtube.com/watch?v=ndljok8CNv4)
 - [Are your questions not being answered?](https://www.youtube.com/watch?v=c3-DBg5M0Zg)
 - [Customising your GitHub Feed](https://www.youtube.com/watch?v=njYz-QWmTBY)
 - [Don&#39;t ask to ask!](https://www.youtube.com/watch?v=RyFk8pW6Sno)
-- [Why TECH is great for remote work?](https://www.youtube.com/watch?v=6AA01oK5_co)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

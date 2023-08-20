@@ -26,10 +26,10 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Reviewing YOUR Open Source Repo and Profile!](https://www.youtube.com/watch?v=d3-Df3sLW5o)
 - [Free your mind!](https://www.youtube.com/watch?v=lEXdb2NW9R4)
 - [Don&#39;t try to learn it all](https://www.youtube.com/watch?v=TWmg0YjGRqo)
 - [Collaboration 1st Code 2nd #github  #opensource](https://www.youtube.com/watch?v=hOtkzvXJMFI)
-- [Reviewing YOUR Open Source Repo and Profile!](https://www.youtube.com/watch?v=d3-Df3sLW5o)
 - [Creating a Discovery Page for LinkFree](https://www.youtube.com/watch?v=ndljok8CNv4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 

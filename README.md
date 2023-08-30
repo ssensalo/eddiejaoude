@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Giving YOUR GitHub Profiles and Projects a SHOUTOUT!](https://www.youtube.com/watch?v=HGi3dBe43AA)
 - [Code your diagrams with Mermaid](https://www.youtube.com/watch?v=-S-k_mMvdW4)
 - [Reviewing YOUR Open Source Repo and Profile!](https://www.youtube.com/watch?v=d3-Df3sLW5o)
 - [Free your mind!](https://www.youtube.com/watch?v=lEXdb2NW9R4)
 - [Don&#39;t try to learn it all](https://www.youtube.com/watch?v=TWmg0YjGRqo)
-- [Collaboration 1st Code 2nd #github  #opensource](https://www.youtube.com/watch?v=hOtkzvXJMFI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

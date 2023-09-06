@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Making money on X &lpar;Twitter&rpar;, YouTube and GitHub](https://www.youtube.com/watch?v=LgV9K2DcFYY)
 - [Open Source is more than code!](https://www.youtube.com/watch?v=DedQiMc3HWc)
 - [Giving YOUR GitHub Profiles and Projects a SHOUTOUT!](https://www.youtube.com/watch?v=HGi3dBe43AA)
 - [Code your diagrams with Mermaid](https://www.youtube.com/watch?v=-S-k_mMvdW4)
 - [Reviewing YOUR Open Source Repo and Profile!](https://www.youtube.com/watch?v=d3-Df3sLW5o)
-- [Free your mind!](https://www.youtube.com/watch?v=lEXdb2NW9R4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

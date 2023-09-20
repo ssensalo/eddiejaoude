@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Events: get the most out of them!](https://www.youtube.com/watch?v=zwqKhQD3TYM)
 - [London unconference by Codebar!](https://www.youtube.com/watch?v=y0qxJrSmPIg)
 - [Beyond Code: what it takes to a build a SaaS product](https://www.youtube.com/watch?v=ZIpm-rE-FY8)
 - [Making money on X &lpar;Twitter&rpar;, YouTube and GitHub](https://www.youtube.com/watch?v=LgV9K2DcFYY)
 - [Open Source is more than code!](https://www.youtube.com/watch?v=DedQiMc3HWc)
-- [Giving YOUR GitHub Profiles and Projects a SHOUTOUT!](https://www.youtube.com/watch?v=HGi3dBe43AA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

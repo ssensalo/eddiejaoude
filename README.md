@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Code with me: GitHub Repo Ratings System &lpar;BioDrop&rpar;](https://www.youtube.com/watch?v=_fL2cBkvOeM)
 - [Public Speaking for Techies](https://www.youtube.com/watch?v=PPl4Mwb9Zg4)
 - [Open Source Roadmap v0.1](https://www.youtube.com/watch?v=fPhrYSypAEM)
 - [Events: get the most out of them!](https://www.youtube.com/watch?v=zwqKhQD3TYM)
 - [London unconference by Codebar!](https://www.youtube.com/watch?v=y0qxJrSmPIg)
-- [Beyond Code: what it takes to a build a SaaS product](https://www.youtube.com/watch?v=ZIpm-rE-FY8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

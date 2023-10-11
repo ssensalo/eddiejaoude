@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Frontend or Backend?  The Issue Template Series: Part 1](https://www.youtube.com/watch?v=T3cusrWLgtI)
 - [Javascript, NextJS, React, HTML, CSS, Tailwind... CODING](https://www.youtube.com/watch?v=sanTIgySz9Y)
 - [Behind the scenes: Infobip Shift Event 2023](https://www.youtube.com/watch?v=IYI9fkXK-IA)
 - [Code with me: GitHub Repo Ratings System &lpar;BioDrop&rpar;](https://www.youtube.com/watch?v=_fL2cBkvOeM)
 - [Hacktoberfest for Maintainers](https://www.youtube.com/watch?v=SY3-XoOiTyQ)
-- [Public Speaking for Techies](https://www.youtube.com/watch?v=PPl4Mwb9Zg4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

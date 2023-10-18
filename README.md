@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Use your GitHub Profile to STAND OUT](https://www.youtube.com/watch?v=pSBs9sWw1Vk)
 - [Get FUNDING for your Open Source project](https://www.youtube.com/watch?v=mLnuohGd69k)
 - [Frontend or Backend?  The Issue Template Series: Part 1](https://www.youtube.com/watch?v=T3cusrWLgtI)
 - [Javascript, NextJS, React, HTML, CSS, Tailwind... CODING](https://www.youtube.com/watch?v=sanTIgySz9Y)
 - [Behind the scenes: Infobip Shift Event 2023](https://www.youtube.com/watch?v=IYI9fkXK-IA)
-- [Code with me: GitHub Repo Ratings System &lpar;BioDrop&rpar;](https://www.youtube.com/watch?v=_fL2cBkvOeM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

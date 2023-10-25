@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Real example of iterating over objects in Javascript &lpar;loop&rpar;](https://www.youtube.com/watch?v=LEZn3kT4rOI)
 - [Dropdown: The Issue Template Series &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=g-aFIPcHrXo)
 - [Use your GitHub Profile to STAND OUT](https://www.youtube.com/watch?v=pSBs9sWw1Vk)
 - [Get FUNDING for your Open Source project](https://www.youtube.com/watch?v=mLnuohGd69k)
 - [Frontend or Backend?  The Issue Template Series: Part 1](https://www.youtube.com/watch?v=T3cusrWLgtI)
-- [Javascript, NextJS, React, HTML, CSS, Tailwind... CODING](https://www.youtube.com/watch?v=sanTIgySz9Y)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

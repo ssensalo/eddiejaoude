@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Small Open Source contributions](https://www.youtube.com/watch?v=d2f58Xs1BuU)
 - [GitHub Issue Template Walk Through for better contributions](https://www.youtube.com/watch?v=JnSAHjMCkQQ)
 - [Real example of iterating over objects in Javascript &lpar;loop&rpar;](https://www.youtube.com/watch?v=LEZn3kT4rOI)
 - [Dropdown: The Issue Template Series &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=g-aFIPcHrXo)
 - [Use your GitHub Profile to STAND OUT](https://www.youtube.com/watch?v=pSBs9sWw1Vk)
-- [Get FUNDING for your Open Source project](https://www.youtube.com/watch?v=mLnuohGd69k)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

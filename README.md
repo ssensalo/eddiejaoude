@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Communication + Collaboration](https://www.youtube.com/watch?v=g4_GpTly2WM)
+- [Open Source SaaS BioDrop with @francescociulla](https://www.youtube.com/watch?v=PodGKBbNle4)
 - [GitHub Sponsors: Are you MISSING OUT?](https://www.youtube.com/watch?v=o_Bn6zBfB0A)
 - [Small Open Source contributions](https://www.youtube.com/watch?v=d2f58Xs1BuU)
 - [GitHub Issue Template Walk Through for better contributions](https://www.youtube.com/watch?v=JnSAHjMCkQQ)
-- [Real example of iterating over objects in Javascript &lpar;loop&rpar;](https://www.youtube.com/watch?v=LEZn3kT4rOI)
-- [Dropdown: The Issue Template Series &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=g-aFIPcHrXo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

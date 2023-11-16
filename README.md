@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Life before work](https://www.youtube.com/watch?v=eCwpyffIFSE)
 - [Custom Domains with NextJS Middleware and Vercel](https://www.youtube.com/watch?v=LemgapUMQis)
 - [Open Source SaaS BioDrop with @francescociulla](https://www.youtube.com/watch?v=PodGKBbNle4)
 - [Communication + Collaboration](https://www.youtube.com/watch?v=g4_GpTly2WM)
 - [GitHub Sponsors: Are you MISSING OUT?](https://www.youtube.com/watch?v=o_Bn6zBfB0A)
-- [Small Open Source contributions](https://www.youtube.com/watch?v=d2f58Xs1BuU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

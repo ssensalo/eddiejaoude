@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [It&#39;s NEVER too late!](https://www.youtube.com/watch?v=_a_lDeK3-U4)
 - [Be consistent, join a community](https://www.youtube.com/watch?v=9N05U2hkJKI)
 - [Life before work](https://www.youtube.com/watch?v=eCwpyffIFSE)
 - [Custom Domains with NextJS Middleware and Vercel](https://www.youtube.com/watch?v=LemgapUMQis)
 - [Open Source SaaS BioDrop with @francescociulla](https://www.youtube.com/watch?v=PodGKBbNle4)
-- [Communication + Collaboration](https://www.youtube.com/watch?v=g4_GpTly2WM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

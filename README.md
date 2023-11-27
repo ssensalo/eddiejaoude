@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [More than code](https://www.youtube.com/watch?v=3q-GWPrfUI0)
 - [NextJS to Mobile and Desktop App &lpar;PWA&rpar;](https://www.youtube.com/watch?v=dZXOlmNsd7o)
 - [It&#39;s NEVER too late!](https://www.youtube.com/watch?v=_a_lDeK3-U4)
 - [Be consistent, join a community](https://www.youtube.com/watch?v=9N05U2hkJKI)
 - [Life before work](https://www.youtube.com/watch?v=eCwpyffIFSE)
-- [Custom Domains with NextJS Middleware and Vercel](https://www.youtube.com/watch?v=LemgapUMQis)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

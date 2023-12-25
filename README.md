@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [NOT how to end a live stream](https://www.youtube.com/watch?v=jKIt3AxHVIQ)
 - [Code with me on Open Source RepoRater using NextJS + Appwrite](https://www.youtube.com/watch?v=0sRRpFoMeaU)
 - [Supercharge your NextJS project with MDX](https://www.youtube.com/watch?v=ICcCjGjsWTk)
 - [Grow and Diversify your Income](https://www.youtube.com/watch?v=egdQ9yrH_d8)
 - [How to REVIEW code](https://www.youtube.com/watch?v=sPOpK6-sGXI)
-- [Need more experience?](https://www.youtube.com/watch?v=Je2ilSw4EgA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

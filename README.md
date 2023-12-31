@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Automate everything and community more!](https://www.youtube.com/watch?v=GIFmhXhhrTo)
 - [Husky: get feedback NOW with Git Pre-commit Hooks](https://www.youtube.com/watch?v=eEhAX_Cn5A8)
 - [NOT how to end a live stream](https://www.youtube.com/watch?v=jKIt3AxHVIQ)
 - [Code with me on Open Source RepoRater using NextJS + Appwrite](https://www.youtube.com/watch?v=0sRRpFoMeaU)
 - [Supercharge your NextJS project with MDX](https://www.youtube.com/watch?v=ICcCjGjsWTk)
-- [Grow and Diversify your Income](https://www.youtube.com/watch?v=egdQ9yrH_d8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

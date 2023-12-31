@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [NextJS Server and Client Composition Patterns](https://www.youtube.com/watch?v=j-wA6TKtT0Q)
 - [Automate everything and community more!](https://www.youtube.com/watch?v=GIFmhXhhrTo)
 - [Husky: get feedback NOW with Git Pre-commit Hooks](https://www.youtube.com/watch?v=eEhAX_Cn5A8)
 - [NOT how to end a live stream](https://www.youtube.com/watch?v=jKIt3AxHVIQ)
 - [Code with me on Open Source RepoRater using NextJS + Appwrite](https://www.youtube.com/watch?v=0sRRpFoMeaU)
-- [Supercharge your NextJS project with MDX](https://www.youtube.com/watch?v=ICcCjGjsWTk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

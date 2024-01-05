@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Code with me on Open Source &lpar;NextJS&rpar;](https://www.youtube.com/watch?v=xG2jxXgKpcY)
 - [Maintainer Productivity: Manage your GitHub Notifications like a PRO](https://www.youtube.com/watch?v=l18kJbSN2z8)
 - [NextJS Server and Client Composition Patterns](https://www.youtube.com/watch?v=j-wA6TKtT0Q)
 - [Automate everything and community more!](https://www.youtube.com/watch?v=GIFmhXhhrTo)
 - [Husky: get feedback NOW with Git Pre-commit Hooks](https://www.youtube.com/watch?v=eEhAX_Cn5A8)
-- [NOT how to end a live stream](https://www.youtube.com/watch?v=jKIt3AxHVIQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

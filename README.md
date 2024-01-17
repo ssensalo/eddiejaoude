@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Want more GitHub Repo Contributors &amp; Stars?](https://www.youtube.com/watch?v=SLX4m6Ztyhk)
 - [NextJS AppRouter API custom headers](https://www.youtube.com/watch?v=Nj1O1vbyzIM)
 - [Contributing to Open Source the right way](https://www.youtube.com/watch?v=pV_OMNd1fkU)
 - [Code with me on Open Source &lpar;NextJS&rpar;](https://www.youtube.com/watch?v=xG2jxXgKpcY)
 - [Maintainer Productivity: Manage your GitHub Notifications like a PRO](https://www.youtube.com/watch?v=l18kJbSN2z8)
-- [NextJS Server and Client Composition Patterns](https://www.youtube.com/watch?v=j-wA6TKtT0Q)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

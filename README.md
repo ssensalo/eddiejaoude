@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Open Source welcomes ALL help!](https://www.youtube.com/watch?v=XTrDk9GJxsw)
 - [STOP watching tutorials!](https://www.youtube.com/watch?v=vksraDNPmSU)
 - [Mockoon: Open Source SaaS product](https://www.youtube.com/watch?v=-GuWsVLBM2A)
 - [Want more GitHub Repo Contributors &amp; Stars?](https://www.youtube.com/watch?v=SLX4m6Ztyhk)
 - [NextJS AppRouter API custom headers](https://www.youtube.com/watch?v=Nj1O1vbyzIM)
-- [Contributing to Open Source the right way](https://www.youtube.com/watch?v=pV_OMNd1fkU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [SaaS Ideas to make extra money](https://www.youtube.com/watch?v=pOI0zhjLtp8)
 - [Developer Decisions 🤔 #javascript #devlife](https://www.youtube.com/watch?v=z6-5RklxhVY)
 - [Networking is HARD!](https://www.youtube.com/watch?v=53ODzQoSZOg)
 - [Open Source welcomes ALL help!](https://www.youtube.com/watch?v=XTrDk9GJxsw)
 - [STOP watching tutorials!](https://www.youtube.com/watch?v=vksraDNPmSU)
-- [Mockoon: Open Source SaaS product](https://www.youtube.com/watch?v=-GuWsVLBM2A)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

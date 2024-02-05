@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Custom GitHub Actions and Release Workflows](https://www.youtube.com/watch?v=L3KN17klxpc)
+- [Must learn GIT, GITHUB and MARKDOWN](https://www.youtube.com/watch?v=rfykPkE9nNY)
 - [SaaS: Select the right tool for the job](https://www.youtube.com/watch?v=gP4BXv-lrIw)
 - [SaaS Ideas to make extra money](https://www.youtube.com/watch?v=pOI0zhjLtp8)
 - [Developer Decisions 🤔 #javascript #devlife](https://www.youtube.com/watch?v=z6-5RklxhVY)
-- [Networking is HARD!](https://www.youtube.com/watch?v=53ODzQoSZOg)
-- [Open Source welcomes ALL help!](https://www.youtube.com/watch?v=XTrDk9GJxsw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

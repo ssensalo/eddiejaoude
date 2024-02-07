@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [5 must build side projects](https://www.youtube.com/watch?v=apjPnO9287s)
 - [Are tech jobs BROKEN!?](https://www.youtube.com/watch?v=YBP0a_uaE28)
 - [Custom GitHub Actions and Release Workflows](https://www.youtube.com/watch?v=L3KN17klxpc)
 - [Must learn GIT, GITHUB and MARKDOWN](https://www.youtube.com/watch?v=rfykPkE9nNY)
 - [SaaS: Select the right tool for the job](https://www.youtube.com/watch?v=gP4BXv-lrIw)
-- [SaaS Ideas to make extra money](https://www.youtube.com/watch?v=pOI0zhjLtp8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

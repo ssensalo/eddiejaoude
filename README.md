@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Open Source Feature Flags with Flagsmith](https://www.youtube.com/watch?v=u9TjbtZX4Zg)
 - [CLOSED GitHub Pull Requests!!](https://www.youtube.com/watch?v=aZxcqn9DEzM)
 - [5 must build side projects](https://www.youtube.com/watch?v=apjPnO9287s)
 - [Are tech jobs BROKEN!?](https://www.youtube.com/watch?v=YBP0a_uaE28)
 - [Custom GitHub Actions and Release Workflows](https://www.youtube.com/watch?v=L3KN17klxpc)
-- [Must learn GIT, GITHUB and MARKDOWN](https://www.youtube.com/watch?v=rfykPkE9nNY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

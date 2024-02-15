@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Client RED flag](https://www.youtube.com/watch?v=hJc-SXJ_ALw)
 - [Open Source Feature Flags with Flagsmith](https://www.youtube.com/watch?v=u9TjbtZX4Zg)
 - [Is Open Source needed?](https://www.youtube.com/watch?v=dh_Y1pS3npA)
 - [Must know Linux Commands for every developer &lpar;Vim, Grep&rpar;](https://www.youtube.com/watch?v=6YhkVV-7EOA)
 - [CLOSED GitHub Pull Requests!!](https://www.youtube.com/watch?v=aZxcqn9DEzM)
-- [5 must build side projects](https://www.youtube.com/watch?v=apjPnO9287s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Get YOUR Pull Request merged!](https://www.youtube.com/watch?v=ko9-JNUtfic)
 - [Open Source GitHub Repo Reactions &lpar;part 2&rpar;](https://www.youtube.com/watch?v=nnYyWuPBblE)
 - [5 ways to Open Source](https://www.youtube.com/watch?v=BYs8d6KbnHM)
 - [Client RED flag](https://www.youtube.com/watch?v=hJc-SXJ_ALw)
 - [Open Source Feature Flags with Flagsmith](https://www.youtube.com/watch?v=u9TjbtZX4Zg)
-- [Is Open Source needed?](https://www.youtube.com/watch?v=dh_Y1pS3npA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

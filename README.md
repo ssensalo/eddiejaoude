@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [STOP looking at Open Source GREEN squares](https://www.youtube.com/watch?v=to6zWf0BF-o)
 - [Automate Repo Reviews with NextJS and Tailwind](https://www.youtube.com/watch?v=Xj4cSObuf3w)
 - [Custom GitHub Actions and Release Workflows](https://www.youtube.com/watch?v=L3KN17klxpc)
 - [Get YOUR Pull Request merged!](https://www.youtube.com/watch?v=ko9-JNUtfic)
 - [Open Source GitHub Repo Reactions &lpar;part 2&rpar;](https://www.youtube.com/watch?v=nnYyWuPBblE)
-- [5 ways to Open Source](https://www.youtube.com/watch?v=BYs8d6KbnHM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

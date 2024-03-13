@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [CLI ninja with GREP](https://www.youtube.com/watch?v=S6HFc4MocrY)
 - [Reviewing your Open Source Repos + Profiles](https://www.youtube.com/watch?v=ZI7tSRR9q8w)
 - [Get more GitHub repo Stars](https://www.youtube.com/watch?v=diWUEgE3Hxo)
 - [GitHub VERIFIED #github #git](https://www.youtube.com/watch?v=BCzNtbEh5T4)
 - [STOP looking at Open Source GREEN squares](https://www.youtube.com/watch?v=to6zWf0BF-o)
-- [Automate Repo Reviews with NextJS and Tailwind](https://www.youtube.com/watch?v=Xj4cSObuf3w)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

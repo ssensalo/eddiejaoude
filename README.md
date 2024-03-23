@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Want to be senior in tech?](https://www.youtube.com/watch?v=o2Wvdiu4E3U)
 - [STOP Deploying! Use Feature Flags with NextJS and Flagsmith](https://www.youtube.com/watch?v=dHfvNx1mg-c)
 - [GitHub Account HACKED?](https://www.youtube.com/watch?v=78pXfsw6Ikw)
 - [CLI ninja with GREP](https://www.youtube.com/watch?v=S6HFc4MocrY)
 - [Reviewing your Open Source Repos + Profiles](https://www.youtube.com/watch?v=ZI7tSRR9q8w)
-- [Get more GitHub repo Stars](https://www.youtube.com/watch?v=diWUEgE3Hxo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

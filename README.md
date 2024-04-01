@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Make your GitHub standout](https://www.youtube.com/watch?v=OxY_linV9As)
 - [How to find the best clients](https://www.youtube.com/watch?v=SVmf8_8QifU)
 - [Want to be senior in tech?](https://www.youtube.com/watch?v=o2Wvdiu4E3U)
 - [STOP Deploying! Use Feature Flags with NextJS and Flagsmith](https://www.youtube.com/watch?v=dHfvNx1mg-c)
 - [GitHub Account HACKED?](https://www.youtube.com/watch?v=78pXfsw6Ikw)
-- [CLI ninja with GREP](https://www.youtube.com/watch?v=S6HFc4MocrY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

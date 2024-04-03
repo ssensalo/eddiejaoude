@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [No more BUGS 🐛](https://www.youtube.com/watch?v=eZU-CzD0QcQ)
 - [Tripadvisor for Open Source GitHub Repos](https://www.youtube.com/watch?v=evaCbGuwDQ0)
 - [Don’t rely on ChatGPT #AI](https://www.youtube.com/watch?v=wGtWYDXeUyI)
 - [Make your GitHub standout](https://www.youtube.com/watch?v=OxY_linV9As)
 - [How to find the best clients](https://www.youtube.com/watch?v=SVmf8_8QifU)
-- [Want to be senior in tech?](https://www.youtube.com/watch?v=o2Wvdiu4E3U)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

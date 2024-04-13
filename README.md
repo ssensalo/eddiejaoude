@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Display colors with Markdown](https://www.youtube.com/watch?v=XLtNUXiuP34)
 - [Markdown ALERTS  #github](https://www.youtube.com/watch?v=o_WDRfN4lgU)
 - [Getting Started with The Boring JavaScript Stack](https://www.youtube.com/watch?v=V0ALx1e98bs)
 - [Reviewing your Open Source Repos + Profiles](https://www.youtube.com/watch?v=b18fYAj-ZeE)
 - [No more BUGS 🐛](https://www.youtube.com/watch?v=eZU-CzD0QcQ)
-- [Tripadvisor for Open Source GitHub Repos](https://www.youtube.com/watch?v=evaCbGuwDQ0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

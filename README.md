@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Are you trending on GitHub?](https://www.youtube.com/watch?v=p-c6mcuUkuQ)
 - [Open Source Reviews](https://www.youtube.com/watch?v=IHoXNBZEKu0)
 - [Asking AI are we safe?](https://www.youtube.com/watch?v=EClEILE3MzY)
 - [How your GitHub Profile can get you a job](https://www.youtube.com/watch?v=vGq95IavGck)
 - [Getting Started with The Boring JavaScript Stack](https://www.youtube.com/watch?v=V0ALx1e98bs)
-- [Display colors with Markdown](https://www.youtube.com/watch?v=XLtNUXiuP34)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

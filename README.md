@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Do I have superpowers?](https://www.youtube.com/watch?v=Ccg46DDfmP0)
 - [GitHub Repo Rules](https://www.youtube.com/watch?v=fkaDT4Knx3U)
 - [Accelerate your development with GitLab and AI](https://www.youtube.com/watch?v=L2Mx8hOhkEE)
 - [Are you trending on GitHub?](https://www.youtube.com/watch?v=p-c6mcuUkuQ)
 - [Open Source Reviews](https://www.youtube.com/watch?v=IHoXNBZEKu0)
-- [Asking AI are we safe?](https://www.youtube.com/watch?v=EClEILE3MzY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

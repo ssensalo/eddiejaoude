@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Hosting a Discord Bot on Civo Compute &lpar;VM&rpar;](https://www.youtube.com/watch?v=R-gCqlqlqQM)
 - [GitHub TRENDING Repos and Developers](https://www.youtube.com/watch?v=0wLZ7qwpKzo)
 - [Don&#39;t Git commit the wrong file again!](https://www.youtube.com/watch?v=MEq15pBl_PY)
 - [Do I have superpowers?](https://www.youtube.com/watch?v=Ccg46DDfmP0)
 - [GitHub Repo Rules](https://www.youtube.com/watch?v=fkaDT4Knx3U)
-- [Accelerate your development with GitLab and AI](https://www.youtube.com/watch?v=L2Mx8hOhkEE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

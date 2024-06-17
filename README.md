@@ -26,8 +26,8 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Host your own official MongoDB Database on Ubuntu with Civo](https://www.youtube.com/watch?v=JGFQgsOt11w)
 - [Coding an app for Content Creators to get PAID!](https://www.youtube.com/watch?v=ytsL8_eW6YM)
+- [Host your own official MongoDB Database on Ubuntu with Civo](https://www.youtube.com/watch?v=JGFQgsOt11w)
 - [NextJS: How to get started &lpar;Part1&rpar;](https://www.youtube.com/watch?v=ylqMag4iEHE)
 - [Hosting a Discord Bot on Civo Compute &lpar;VM&rpar;](https://www.youtube.com/watch?v=R-gCqlqlqQM)
 - [GitHub TRENDING Repos and Developers](https://www.youtube.com/watch?v=0wLZ7qwpKzo)

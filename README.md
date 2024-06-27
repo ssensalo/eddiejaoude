@@ -27,10 +27,10 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Prevent unwanted changes in your Pull Request](https://www.youtube.com/watch?v=RISz-RGc_4Q)
+- [GitHub Open Source Reviews](https://www.youtube.com/watch?v=gCPPk_ICRUM)
 - [Deploying my new SaaS &lpar;with NextJS and Docker&rpar;](https://www.youtube.com/watch?v=SZIxomm06JU)
 - [GitLab Duo AI: more than a pair programming partner](https://www.youtube.com/watch?v=mHn8KOzpPNY)
 - [Coding an app for Content Creators to get PAID!](https://www.youtube.com/watch?v=ytsL8_eW6YM)
-- [Host your own official MongoDB Database on Ubuntu with Civo](https://www.youtube.com/watch?v=JGFQgsOt11w)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

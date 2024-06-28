@@ -26,7 +26,7 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Start contributing to Open Source: New EddieHub project with Flagsmith](https://www.youtube.com/watch?v=3c_asy0GogI)
+- [Build a real world project: New EddieHub Repo with Flagsmith](https://www.youtube.com/watch?v=3c_asy0GogI)
 - [Prevent unwanted changes in your Pull Request](https://www.youtube.com/watch?v=RISz-RGc_4Q)
 - [GitHub Open Source Reviews](https://www.youtube.com/watch?v=gCPPk_ICRUM)
 - [Deploying my new SaaS &lpar;with NextJS and Docker&rpar;](https://www.youtube.com/watch?v=SZIxomm06JU)

@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Host your own Heroku / Vercel with the Open Source Project Caprover](https://www.youtube.com/watch?v=AyYMLTt9YtI)
 - [GitHub Open Source Reviews](https://www.youtube.com/watch?v=gCPPk_ICRUM)
 - [Build a real world project: New EddieHub Repo with Flagsmith](https://www.youtube.com/watch?v=Bk9wkgUhAqc)
 - [Prevent unwanted changes in your Pull Request](https://www.youtube.com/watch?v=RISz-RGc_4Q)
 - [Deploying my new SaaS &lpar;with NextJS and Docker&rpar;](https://www.youtube.com/watch?v=SZIxomm06JU)
-- [GitLab Duo AI: more than a pair programming partner](https://www.youtube.com/watch?v=mHn8KOzpPNY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

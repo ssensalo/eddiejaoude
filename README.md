@@ -26,10 +26,10 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Build a real world project: New EddieHub Repo with Flagsmith](https://www.youtube.com/watch?v=Bk9wkgUhAqc)
 - [E2E Testing using Playwright with Debbie O&#39;Brien from Microsoft](https://www.youtube.com/watch?v=lcHaBZKuPdk)
 - [Host your own Heroku / Vercel with the Open Source Project Caprover](https://www.youtube.com/watch?v=AyYMLTt9YtI)
 - [GitHub Open Source Reviews](https://www.youtube.com/watch?v=gCPPk_ICRUM)
-- [Build a real world project: New EddieHub Repo with Flagsmith](https://www.youtube.com/watch?v=Bk9wkgUhAqc)
 - [Prevent unwanted changes in your Pull Request](https://www.youtube.com/watch?v=RISz-RGc_4Q)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 

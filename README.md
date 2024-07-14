@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Attention Freelancers! How to spot a client red flag 🚩](https://www.youtube.com/watch?v=ILyKnzM249c)
 - [E2E Testing using Playwright with Debbie O&#39;Brien from Microsoft](https://www.youtube.com/watch?v=lcHaBZKuPdk)
 - [Build a real world project: New EddieHub Repo with Flagsmith](https://www.youtube.com/watch?v=Bk9wkgUhAqc)
 - [Host your own Heroku / Vercel with the Open Source Project Caprover](https://www.youtube.com/watch?v=AyYMLTt9YtI)
 - [GitHub Open Source Reviews](https://www.youtube.com/watch?v=gCPPk_ICRUM)
-- [Prevent unwanted changes in your Pull Request](https://www.youtube.com/watch?v=RISz-RGc_4Q)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

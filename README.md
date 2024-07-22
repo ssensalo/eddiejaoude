@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Is your Open Source Repo READY?](https://www.youtube.com/watch?v=GkorCiECnWc)
 - [Git commit hooks with Husky](https://www.youtube.com/watch?v=s1LCWW-w5lI)
 - [Attention Freelancers! How to spot a client red flag 🚩](https://www.youtube.com/watch?v=ILyKnzM249c)
 - [E2E Testing using Playwright with Debbie O&#39;Brien from Microsoft](https://www.youtube.com/watch?v=lcHaBZKuPdk)
 - [Build a real world project: New EddieHub Repo with Flagsmith](https://www.youtube.com/watch?v=Bk9wkgUhAqc)
-- [Host your own Heroku / Vercel with the Open Source Project Caprover](https://www.youtube.com/watch?v=AyYMLTt9YtI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

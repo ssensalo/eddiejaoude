@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Create custom badges with NextJS &lpar;shields&rpar;](https://www.youtube.com/watch?v=f53RvUpUA8w)
 - [Authenticated E2E Testing with Playwright - Mocking Users](https://www.youtube.com/watch?v=dGa4sJXtbrU)
 - [Is your Open Source Repo READY?](https://www.youtube.com/watch?v=GkorCiECnWc)
 - [Git commit hooks with Husky](https://www.youtube.com/watch?v=s1LCWW-w5lI)
 - [Attention Freelancers! How to spot a client red flag 🚩](https://www.youtube.com/watch?v=ILyKnzM249c)
-- [E2E Testing using Playwright with Debbie O&#39;Brien from Microsoft](https://www.youtube.com/watch?v=lcHaBZKuPdk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

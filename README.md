@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Contribute to the Open Source GitLab Platform](https://www.youtube.com/watch?v=XBvWwxQ-VFw)
 - [STOP hardcoding values in your project by using the Open Source project Flagsmith](https://www.youtube.com/watch?v=9W-RVzYZR6o)
 - [GitLab Repo: MY first impressions &lpar;reviewing the Wireshark project&rpar;](https://www.youtube.com/watch?v=yEePLXpCI_4)
 - [Create custom badges with NextJS &lpar;shields&rpar;](https://www.youtube.com/watch?v=f53RvUpUA8w)
 - [Authenticated E2E Testing with Playwright - Mocking Users](https://www.youtube.com/watch?v=dGa4sJXtbrU)
-- [Is your Open Source Repo READY?](https://www.youtube.com/watch?v=GkorCiECnWc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

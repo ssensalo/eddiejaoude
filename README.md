@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Is your web application secure?](https://www.youtube.com/watch?v=XZOgX6sq1ZY)
 - [Contribute to the Open Source GitLab Platform](https://www.youtube.com/watch?v=XBvWwxQ-VFw)
 - [Are you using Global Git Ignore?](https://www.youtube.com/watch?v=qL7n5C-tv3U)
 - [STOP hardcoding values in your project by using the Open Source project Flagsmith](https://www.youtube.com/watch?v=9W-RVzYZR6o)
 - [GitLab Repo: MY first impressions &lpar;reviewing the Wireshark project&rpar;](https://www.youtube.com/watch?v=yEePLXpCI_4)
-- [Create custom badges with NextJS &lpar;shields&rpar;](https://www.youtube.com/watch?v=f53RvUpUA8w)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

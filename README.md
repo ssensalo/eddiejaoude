@@ -26,8 +26,8 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Test in Production](https://www.youtube.com/watch?v=K3iZJSWyOGc)
 - [Is your web application secure?](https://www.youtube.com/watch?v=XZOgX6sq1ZY)
+- [Test in Production](https://www.youtube.com/watch?v=K3iZJSWyOGc)
 - [Contribute to the Open Source GitLab Platform](https://www.youtube.com/watch?v=XBvWwxQ-VFw)
 - [Are you using Global Git Ignore?](https://www.youtube.com/watch?v=qL7n5C-tv3U)
 - [STOP hardcoding values in your project by using the Open Source project Flagsmith](https://www.youtube.com/watch?v=9W-RVzYZR6o)

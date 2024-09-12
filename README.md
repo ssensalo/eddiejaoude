@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [HealthCheck scheduler with NextJS, Prisma and Flagsmith](https://www.youtube.com/watch?v=GsN4_x1dd2M)
 - [Security for Maintainers](https://www.youtube.com/watch?v=SgwBl1IWZ5M)
 - [Mock serverside API requests using NextJS and MSWjs](https://www.youtube.com/watch?v=Z2lz6W12BCQ)
 - [Is your web application secure?](https://www.youtube.com/watch?v=XZOgX6sq1ZY)
 - [Test in Production](https://www.youtube.com/watch?v=K3iZJSWyOGc)
-- [Contribute to the Open Source GitLab Platform](https://www.youtube.com/watch?v=XBvWwxQ-VFw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

@@ -26,8 +26,8 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Why do Developers HATE writing tests? And are they right?](https://www.youtube.com/watch?v=hT0AiSIk_d0)
 - [HealthCheck scheduler with NextJS, Prisma and Flagsmith](https://www.youtube.com/watch?v=GsN4_x1dd2M)
+- [Why do Developers HATE writing tests? And are they right?](https://www.youtube.com/watch?v=hT0AiSIk_d0)
 - [Security for Maintainers](https://www.youtube.com/watch?v=SgwBl1IWZ5M)
 - [Mock serverside API requests using NextJS and MSWjs](https://www.youtube.com/watch?v=Z2lz6W12BCQ)
 - [Is your web application secure?](https://www.youtube.com/watch?v=XZOgX6sq1ZY)

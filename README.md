@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Generate unit tests with EarlyAI](https://www.youtube.com/watch?v=lT8jeRdCTos)
 - [Stop creating Typescript interfaces manually &lpar;use quicktype&rpar;](https://www.youtube.com/watch?v=NiR0IHrXf0o)
 - [Contribute to GitLab for Hacktoberfest!](https://www.youtube.com/watch?v=UUwncIIR-r8)
 - [Mock out OAuth Provider using MswJS &lpar;NextJS and Next-Auth&rpar;](https://www.youtube.com/watch?v=C1IKFYwSMM0)
 - [No scheduler? No Cron? No problem... use GitHub Actions](https://www.youtube.com/watch?v=0-FTLTVtG-g)
-- [HealthCheck scheduler with NextJS, Prisma and Flagsmith](https://www.youtube.com/watch?v=GsN4_x1dd2M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

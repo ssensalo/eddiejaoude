@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [AI SQL queries with Prisma Optimize  #nodejs #postgres #sql](https://www.youtube.com/watch?v=oTvshob9Lyo)
 - [Improve your database queries with Prisma Optimize AI](https://www.youtube.com/watch?v=5nAAH7y8R9A)
 - [Local services public online](https://www.youtube.com/watch?v=OjNmXLWOX64)
 - [Expose your local services on the web with LocalTunnel](https://www.youtube.com/watch?v=aEfwXn3B-GE)
 - [Generate unit tests with EarlyAI](https://www.youtube.com/watch?v=lT8jeRdCTos)
-- [Stop creating Typescript interfaces manually &lpar;use quicktype&rpar;](https://www.youtube.com/watch?v=NiR0IHrXf0o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

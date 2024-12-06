@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Create beautiful UI with Vercel&#39;s AI  v0 #vercel #ai](https://www.youtube.com/watch?v=SS7u2a1gE9o)
 - [AI SQL queries with Prisma Optimize  #nodejs #postgres #sql](https://www.youtube.com/watch?v=oTvshob9Lyo)
 - [Improve your database queries with Prisma Optimize AI](https://www.youtube.com/watch?v=5nAAH7y8R9A)
 - [Local services public online](https://www.youtube.com/watch?v=OjNmXLWOX64)
 - [Expose your local services on the web with LocalTunnel](https://www.youtube.com/watch?v=aEfwXn3B-GE)
-- [Generate unit tests with EarlyAI](https://www.youtube.com/watch?v=lT8jeRdCTos)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

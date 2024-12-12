@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [STOP using SQL SELECT * #sql #orm](https://www.youtube.com/watch?v=0y-Nz09huKw)
 - [200k on Twitter &lpar;X&rpar; Payout 🤑 #twitter #x #socialmedia](https://www.youtube.com/watch?v=pKleA0rVZYY)
 - [Create beautiful UI with Vercel&#39;s AI  v0 #vercel #ai](https://www.youtube.com/watch?v=SS7u2a1gE9o)
 - [AI SQL queries with Prisma Optimize  #nodejs #postgres #sql](https://www.youtube.com/watch?v=oTvshob9Lyo)
 - [Improve your database queries with Prisma Optimize AI](https://www.youtube.com/watch?v=5nAAH7y8R9A)
-- [Local services public online](https://www.youtube.com/watch?v=OjNmXLWOX64)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

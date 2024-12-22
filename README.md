@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [When coding, we are not always coding #digitalnomad #devlife](https://www.youtube.com/watch?v=kUJ3vt1AJU4)
 - [Prisma ORM Typescript models #prisma #orm #database](https://www.youtube.com/watch?v=Et6sM6Xsklc)
 - [Twitter &lpar;X&rpar; pinned post #twitter #socialmedia](https://www.youtube.com/watch?v=c1EqB-lIGRs)
 - [STOP using SQL SELECT * #sql #orm](https://www.youtube.com/watch?v=0y-Nz09huKw)
 - [200k on Twitter &lpar;X&rpar; Payout 🤑 #twitter #x #socialmedia](https://www.youtube.com/watch?v=pKleA0rVZYY)
-- [Create beautiful UI with Vercel&#39;s AI  v0 #vercel #ai](https://www.youtube.com/watch?v=SS7u2a1gE9o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

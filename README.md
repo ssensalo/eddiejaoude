@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Building and Deploying a SaaS with AI](https://www.youtube.com/watch?v=N9YYJ0qyesg)
 - [Do you need Dark Mode from day 1?](https://www.youtube.com/watch?v=TbISzUdwsXU)
 - [When coding, we are not always coding #digitalnomad #devlife](https://www.youtube.com/watch?v=kUJ3vt1AJU4)
 - [Prisma ORM Typescript models #prisma #orm #database](https://www.youtube.com/watch?v=Et6sM6Xsklc)
 - [Twitter &lpar;X&rpar; pinned post #twitter #socialmedia](https://www.youtube.com/watch?v=c1EqB-lIGRs)
-- [STOP using SQL SELECT * #sql #orm](https://www.youtube.com/watch?v=0y-Nz09huKw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

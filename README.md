@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Add Scheduling to your app in minutes with Cronofy](https://www.youtube.com/watch?v=B1ACLrOxubk)
 - [Monitor your website with the Open Source project Kestra](https://www.youtube.com/watch?v=EaNsGFBf97o)
 - [How to contribute to Open Source? Full example on the Kestra GitHub Repo](https://www.youtube.com/watch?v=Qa0ZgJJjJVI)
 - [See you at The Developer Show powered by @Gitlab](https://www.youtube.com/shorts/LV5QukdA-ro)
 - [Building and Deploying a SaaS with AI](https://www.youtube.com/watch?v=N9YYJ0qyesg)
-- [Do you need Dark Mode from day 1?](https://www.youtube.com/shorts/TbISzUdwsXU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---

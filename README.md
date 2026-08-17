@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Will Claude AI replace developers?](https://www.youtube.com/shorts/Bo69v3BOwOU)
 - [Building with AI away from my computer using Orca + Claude](https://www.youtube.com/shorts/9f_TApH4_6Q)
 - [Optimize your Postgres with pg-aiguide MCP server](https://www.youtube.com/watch?v=VS2a_0Cp4A4)
 - [Why the &quot;LIVE&quot; in Live Streaming is both terrifying and awesome!!](https://www.youtube.com/shorts/MqeGl8v2GSc)
 - [Add Scheduling to your app in minutes with Cronofy](https://www.youtube.com/watch?v=B1ACLrOxubk)
-- [Monitor your website with the Open Source project Kestra](https://www.youtube.com/watch?v=EaNsGFBf97o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
